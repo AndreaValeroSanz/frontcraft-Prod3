@@ -19,7 +19,7 @@ import { AppPlayersComponentPipes } from '../PlayersComponent/Pipes/pipes.compon
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Frontcraft-Prod2';
+  title = 'Frontcraft-Prod3';
 
 
 }

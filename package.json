@@ -19,8 +19,14 @@
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
     "@angular/router": "^18.2.0",
+    "@react-navigation/bottom-tabs": "^7.0.7",
+    "@react-navigation/native": "^7.0.4",
     "expo": "^52.0.11",
+    "react-native-pager-view": "^6.5.1",
+    "react-native-safe-area-context": "^4.14.0",
+    "react-native-screens": "~4.1.0",
     "rxjs": "~7.8.0",
+    "todomvc-app-css": "^2.4.3",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.10"
   },
@@ -28,7 +34,12 @@
     "@angular-devkit/build-angular": "^18.2.11",
     "@angular/cli": "^18.2.11",
     "@angular/compiler-cli": "^18.2.0",
+    "@eslint/js": "^9.15.0",
     "@types/jasmine": "~5.1.0",
+    "@types/react": "~18.3.12",
+    "eslint": "^9.15.0",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.12.0",
     "jasmine-core": "~5.2.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.2.0",
@@ -36,6 +47,6 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.5.2",
-    "@types/react": "~18.3.12"
+    "typescript-eslint": "^8.15.0"
   }
 }
